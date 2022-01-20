@@ -1,0 +1,37 @@
+@import url("https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Roboto:wght@400;500;700&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+}
+.bebas {
+  font-family: "Bebas Neue", cursive;
+}
+.roboto {
+  font-family: "Roboto", sans-serif;
+}
+.top {
+  min-height: calc(100vh - 150px);
+}
+.top-1 {
+  min-height: 100vh;
+}
+.text-black {
+  color: #3c3c3c;
+}
+.btn-bgc {
+  background: linear-gradient(180deg, #a4bc46 0%, #85a019 100%);
+}
+.bg-product {
+  background-color: #f1f1f1;
+  height: 470px;
+  width: 370px;
+}
+.product-card {
+  border: none;
+}
+.shadow-box {
+  box-shadow: 1px 1px 5px 1px #777777;
+}
+.footer-bg {
+  background-color: #120e43;
+}
